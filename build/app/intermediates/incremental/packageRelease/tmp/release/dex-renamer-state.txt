@@ -1,0 +1,4 @@
+#Thu Nov 24 17:41:01 BDT 2022
+base.0=F\:\\practice\\mobile-devapps-quran-59fcb84b5127\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
